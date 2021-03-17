@@ -1,0 +1,9 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background: #fceddf;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding: 20px 30px 10px 40px;
+    border: 10px solid #85f8ff;
+}

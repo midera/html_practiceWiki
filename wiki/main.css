@@ -1,0 +1,43 @@
+body{
+    background: aliceblue;
+}
+.heading{
+    color: #000;
+    text-decoration: underline rgb(207, 214, 219);
+    text-align: left;
+}
+
+.image{
+    width: 240px;
+    height: 319px;
+    margin: 4px 10px 2px 2px;
+    border: 1px solid #90a4a0;
+    padding: 6px;
+}
+
+.content{
+    background: #d0d7e5;
+    width: 200px;
+    height: 200px;
+    text-align: justify;
+    overflow: hidden;
+    padding: 20px 30px 10px 40px;
+    border: 2px solid #4f5454;
+    display: flex;
+}
+ul {
+    margin: 10px 10px 20px 20px;
+
+    padding: 10px;
+}
+.quote{
+    background: #d0d7e5;
+    width: 300px;
+    height: 300px;
+    text-align: justify;
+    overflow: hidden;
+    padding: 20px 30px 10px 40px;
+    border: 2px solid #4f5454;
+    display: flex;
+
+}
