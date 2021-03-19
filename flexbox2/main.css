@@ -4,12 +4,21 @@
     background: cadetblue;
     margin: 0 auto;
 
+    border: 10px solid #3b3b35;
+}
+.BOXS{
+    display: flex;
+    height: 65%;
+}
+.blue-one{
+    width: 70%;
+    background: darkslategray;
     border: 10px solid white;
 }
-
 .block {
     background: deeppink;
     height: 30%;
+    border: 10px solid white;
 
 }
 
@@ -28,8 +37,9 @@
 }
 
 .blue {
-    background: blue;
-    height: 60%
+    background: #56567c;
+    height: 60%;
+    border: 10px solid white;
 }
 
 .three {
@@ -50,6 +60,6 @@
 
 .lost {
     background: darkred;
-
+    border: 10px solid white;
     width: 30%;
 }
