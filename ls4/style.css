@@ -1,0 +1,37 @@
+.father{
+    width: 900px;
+    height: 800px;
+    margin: 0 auto;
+    background: antiquewhite;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px 20px fuchsia;
+    box-sizing: border-box;
+}
+.red-one{
+    background: aqua;
+    color: blueviolet;
+}
+.gold{
+    background: darkred;
+    color: darkslategray;
+}
+.grn{
+    background: gold;
+    color: green;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.minibox{
+    width: 10%;
+    height: 10%;
+    background: darkslategray;
+    margin-left: 10%;
+    margin-top: 10%;
+}

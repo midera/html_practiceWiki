@@ -1,0 +1,55 @@
+.fon {
+    width: 900px;
+    height: 900px;
+    background: cadetblue;
+    margin: 0 auto;
+
+    border: 10px solid white;
+}
+
+.block {
+    background: deeppink;
+    height: 30%;
+
+}
+
+.over {
+    display: flex;
+    height: 65%;
+
+}
+
+.four {
+
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 70%;
+}
+
+.blue {
+    background: blue;
+    height: 60%
+}
+
+.three {
+    display: flex;
+    flex-direction: row;
+    height: 50%;
+
+
+}
+
+.gold {
+    width: 32%;
+    height: auto;
+    background: sandybrown;
+    border: 10px solid white;
+
+}
+
+.lost {
+    background: darkred;
+
+    width: 30%;
+}
